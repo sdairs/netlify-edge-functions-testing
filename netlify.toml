@@ -13,3 +13,7 @@
 [[edge_functions]]
   function = "new_test"
   path = "/*"
+
+[[edge_functions]]
+  function = "gdtomd"
+  path = "/*"
