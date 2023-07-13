@@ -18,6 +18,10 @@
   path = "/*"
 
 [[edge_functions]]
+  function = "new_test"
+  path = "/*"
+
+[[edge_functions]]
   function = "set-request-header"
   path = "/*"
 
